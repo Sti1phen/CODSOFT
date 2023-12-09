@@ -1,0 +1,429 @@
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1702019993117)
++++ b/.idea/encodings.xml	(date 1702019993117)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"6f474faf-bfb4-467b-b88f-875b0cdfad29\" name=\"Changes\" comment=\"Final Commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/QuizApplication/QuizQuestions.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/NumberGame.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/QuizApplication/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/QuizApplication/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ZFYinplszlkgAIWpuAMShrHHkr\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/steph/Documents/CODSOFT/src/main/java&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/steph/Documents/CODSOFT/src/main/java/org/example/Main.java&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\steph\\Documents\\CODSOFT\\src\\main\\java\" />\r\n    </key>\r\n    <key name=\"MoveMembersDialog.RECENTS_KEY\">\r\n      <recent name=\"QuizApplication.Main\" />\r\n      <recent name=\"QuizApplication.QuizQuestions\" />\r\n      <recent name=\"QuizApplication.ConsoleDisplay\" />\r\n      <recent name=\"QuizApplication.Timer\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"6f474faf-bfb4-467b-b88f-875b0cdfad29\" name=\"Changes\" comment=\"\" />\r\n      <created>1702019426108</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1702019426108</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Final Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1702021735529</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1702021735529</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Final Commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Final Commit\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>\r\n          <line>15</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c5ce44dd30cb2e636efbc16bf499c5295c4f33ef)
++++ b/.idea/workspace.xml	(date 1702084196663)
+@@ -4,13 +4,14 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="Final Commit">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/QuizQuestions.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/NumberGame.java" afterDir="false" />
++    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="Quiz Application">
++      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/ResultScreen.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -38,26 +39,28 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/steph/Documents/CODSOFT/src/main/java&quot;,
+-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/steph/Documents/CODSOFT/src/main/java/org/example/Main.java&quot;,
+-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "ignore.virus.scanning.warn.message": "true",
++    "last_opened_file_path": "C:/Users/steph/Documents/CODSOFT/src/main/java",
++    "onboarding.tips.debug.path": "C:/Users/steph/Documents/CODSOFT/src/main/java/org/example/Main.java",
++    "project.structure.last.edited": "Modules",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.2"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\steph\Documents\CODSOFT\src\main\java" />
+     </key>
+     <key name="MoveMembersDialog.RECENTS_KEY">
++      <recent name="QuizApplication.ResultScreen" />
++      <recent name="QuizApplication.ConsoleDisplay" />
+       <recent name="QuizApplication.Main" />
+       <recent name="QuizApplication.QuizQuestions" />
+-      <recent name="QuizApplication.ConsoleDisplay" />
+       <recent name="QuizApplication.Timer" />
+     </key>
+   </component>
+@@ -78,12 +81,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1702021735529</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Quiz Application">
++      <option name="closed" value="true" />
++      <created>1702083054509</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1702083054510</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Final Commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
++    <MESSAGE value="Quiz Application" />
++    <option name="LAST_COMMIT_MESSAGE" value="Quiz Application" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1702055259073)
++++ b/.idea/uiDesigner.xml	(date 1702055259073)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/main/java/QuizApplication/ConsoleDisplay.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package QuizApplication;\r\n\r\npublic class ConsoleDisplay {\r\n\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/QuizApplication/ConsoleDisplay.java b/src/main/java/QuizApplication/ConsoleDisplay.java
+--- a/src/main/java/QuizApplication/ConsoleDisplay.java	(revision c5ce44dd30cb2e636efbc16bf499c5295c4f33ef)
++++ b/src/main/java/QuizApplication/ConsoleDisplay.java	(date 1702084196557)
+@@ -2,5 +2,20 @@
+ 
+ public class ConsoleDisplay {
+ 
++    public static void displayQuestion(int questionIndex) {
++        System.out.println("Question " + (questionIndex + 1) + ": " +
++                "" + QuizQuestions.questions[questionIndex]);
++        for (String option : QuizQuestions.options[questionIndex]) {
++            System.out.println(option);
++        }
++        System.out.print("Your answer: ");
++    }
+ 
++    public static void displayCorrectAnswer(int questionIndex) {
++        System.out.println("The correct answer is: " + QuizQuestions.correctAnswers[questionIndex]);
++    }
++
++    public static void moveToNextQuestion() {
++        System.out.println("Moving to the next question...\n");
++    }
+ }
+Index: src/main/java/QuizApplication/Timer.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package QuizApplication;\r\n\r\nimport java.util.ArrayList;\r\nimport java.util.List;\r\nimport java.util.Scanner;\r\nimport java.util.TimerTask;\r\n\r\npublic class Timer {\r\n\r\n    public static final int TIME_LIMIT_PER_QUESTION = 10;\r\n    public static int score = 0;\r\n    public static java.util.Timer timer;\r\n    public static Scanner scanner = new Scanner(System.in);\r\n    private static List<Character> quizAnswers =new ArrayList<>();\r\n\r\n    public static void waitForAnswer(int questionIndex) {\r\n\r\n        timer = new java.util.Timer();\r\n        timer.schedule(new TimerTask() {\r\n            @Override\r\n            public void run() {\r\n                System.out.println(\"\\nTime's up!\");\r\n                System.out.println(\"You didn't provide an answer. Moving to the next question...\\n\");\r\n\r\n                timer.cancel();\r\n\r\n            }\r\n        }, TIME_LIMIT_PER_QUESTION * 1000);\r\n\r\n        String userAnswer = scanner.nextLine().trim();\r\n\r\n        if (userAnswer.isEmpty())\r\n            userAnswer = \" \";\r\n        char userChoice = Character.toUpperCase(userAnswer.charAt(0));\r\n        quizAnswers.add(userChoice);\r\n\r\n        timer.cancel();\r\n\r\n    }\r\n\r\n    public static void displayResult(){\r\n        for (int questionIndex  = 0; questionIndex <QuizQuestions.TOTAL_QUESTIONS; questionIndex++){\r\n            System.out.println(\"Question \" + (questionIndex + 1) + \": \" +\r\n                    \"\" + QuizQuestions.questions[questionIndex]);\r\n            System.out.println(\"Your answer: \" + quizAnswers.get(questionIndex));\r\n\r\n            if (quizAnswers.get(questionIndex) == QuizQuestions.correctAnswers[questionIndex]) {\r\n                System.out.println(\"Correct!\\n\");\r\n                score++;\r\n            }\r\n            else {\r\n                System.out.println(\"Incorrect!\\n\");\r\n                Main.displayCorrectAnswer(questionIndex);\r\n            }\r\n        }\r\n        System.out.println(\"Your final score: \" + QuizApplication.Timer.score + \"/\"\r\n                + QuizQuestions.TOTAL_QUESTIONS);\r\n    }\r\n\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/QuizApplication/Timer.java b/src/main/java/QuizApplication/Timer.java
+--- a/src/main/java/QuizApplication/Timer.java	(revision c5ce44dd30cb2e636efbc16bf499c5295c4f33ef)
++++ b/src/main/java/QuizApplication/Timer.java	(date 1702085086345)
+@@ -4,14 +4,16 @@
+ import java.util.List;
+ import java.util.Scanner;
+ import java.util.TimerTask;
++import java.util.regex.Pattern;
+ 
+ public class Timer {
+ 
+-    public static final int TIME_LIMIT_PER_QUESTION = 10;
++    public static final int TIME_LIMIT_PER_QUESTION = 15;
+     public static int score = 0;
+     public static java.util.Timer timer;
+     public static Scanner scanner = new Scanner(System.in);
+-    private static List<Character> quizAnswers =new ArrayList<>();
++    static List<Character> quizAnswers =new ArrayList<>();
++//    static Pattern QUIZ_ANSWER =  Pattern.compile("^[a-zA-Z]*$");
+ 
+     public static void waitForAnswer(int questionIndex) {
+ 
+@@ -23,12 +25,12 @@
+                 System.out.println("You didn't provide an answer. Moving to the next question...\n");
+ 
+                 timer.cancel();
+-
+             }
+         }, TIME_LIMIT_PER_QUESTION * 1000);
+ 
+         String userAnswer = scanner.nextLine().trim();
+ 
++
+         if (userAnswer.isEmpty())
+             userAnswer = " ";
+         char userChoice = Character.toUpperCase(userAnswer.charAt(0));
+@@ -38,23 +40,4 @@
+ 
+     }
+ 
+-    public static void displayResult(){
+-        for (int questionIndex  = 0; questionIndex <QuizQuestions.TOTAL_QUESTIONS; questionIndex++){
+-            System.out.println("Question " + (questionIndex + 1) + ": " +
+-                    "" + QuizQuestions.questions[questionIndex]);
+-            System.out.println("Your answer: " + quizAnswers.get(questionIndex));
+-
+-            if (quizAnswers.get(questionIndex) == QuizQuestions.correctAnswers[questionIndex]) {
+-                System.out.println("Correct!\n");
+-                score++;
+-            }
+-            else {
+-                System.out.println("Incorrect!\n");
+-                Main.displayCorrectAnswer(questionIndex);
+-            }
+-        }
+-        System.out.println("Your final score: " + QuizApplication.Timer.score + "/"
+-                + QuizQuestions.TOTAL_QUESTIONS);
+-    }
+-
+ }
+\ No newline at end of file
+Index: src/main/java/QuizApplication/ResultScreen.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/QuizApplication/ResultScreen.java b/src/main/java/QuizApplication/ResultScreen.java
+new file mode 100644
+--- /dev/null	(date 1702085086351)
++++ b/src/main/java/QuizApplication/ResultScreen.java	(date 1702085086351)
+@@ -0,0 +1,23 @@
++package QuizApplication;
++
++public class ResultScreen {
++
++    public static void displayResult(){
++        for (int questionIndex  = 0; questionIndex <QuizQuestions.TOTAL_QUESTIONS; questionIndex++){
++            System.out.println("\nQuestion " + (questionIndex + 1) + ": " +
++                    "" + QuizQuestions.questions[questionIndex]);
++            System.out.println("Your answer: " + Timer.quizAnswers.get(questionIndex));
++
++            if (Timer.quizAnswers.get(questionIndex) == QuizQuestions.correctAnswers[questionIndex]) {
++                System.out.println("Correct!");
++                Timer.score++;
++            }
++            else {
++                System.out.println("Incorrect!");
++                ConsoleDisplay.displayCorrectAnswer(questionIndex);
++            }
++        }
++        System.out.println("\nYour final score: " + Timer.score + "/"
++                + QuizQuestions.TOTAL_QUESTIONS);
++    }
++}
+Index: src/main/java/QuizApplication/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package QuizApplication;\r\n\r\npublic class Main {\r\n\r\n    public static void main(String[] args) {\r\n            System.out.println(\"Welcome to the Quiz!\\n\");\r\n\r\n            for (int i = 0; i < QuizQuestions.TOTAL_QUESTIONS; i++) {\r\n                displayQuestion(i);\r\n\r\n                Timer.waitForAnswer(i);\r\n\r\n            }\r\n\r\n            System.out.println(\"\\nQuiz completed!\");\r\n\r\n        Timer.displayResult();\r\n\r\n\r\n    }\r\n\r\n        public static void displayQuestion(int questionIndex) {\r\n            System.out.println(\"Question \" + (questionIndex + 1) + \": \" +\r\n                    \"\" + QuizQuestions.questions[questionIndex]);\r\n            for (String option : QuizQuestions.options[questionIndex]) {\r\n                System.out.println(option);\r\n            }\r\n            System.out.print(\"Your answer: \");\r\n        }\r\n\r\n    public static void displayCorrectAnswer(int questionIndex) {\r\n            System.out.println(\"The correct answer is: \" + QuizQuestions.correctAnswers[questionIndex]);\r\n        }\r\n\r\n        public static void moveToNextQuestion() {\r\n            System.out.println(\"Moving to the next question...\\n\");\r\n        }\r\n    }\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/QuizApplication/Main.java b/src/main/java/QuizApplication/Main.java
+--- a/src/main/java/QuizApplication/Main.java	(revision c5ce44dd30cb2e636efbc16bf499c5295c4f33ef)
++++ b/src/main/java/QuizApplication/Main.java	(date 1702084410301)
+@@ -6,7 +6,7 @@
+             System.out.println("Welcome to the Quiz!\n");
+ 
+             for (int i = 0; i < QuizQuestions.TOTAL_QUESTIONS; i++) {
+-                displayQuestion(i);
++                ConsoleDisplay.displayQuestion(i);
+ 
+                 Timer.waitForAnswer(i);
+ 
+@@ -14,26 +14,9 @@
+ 
+             System.out.println("\nQuiz completed!");
+ 
+-        Timer.displayResult();
+-
+-
+-    }
++            ResultScreen.displayResult();
+ 
+-        public static void displayQuestion(int questionIndex) {
+-            System.out.println("Question " + (questionIndex + 1) + ": " +
+-                    "" + QuizQuestions.questions[questionIndex]);
+-            for (String option : QuizQuestions.options[questionIndex]) {
+-                System.out.println(option);
+-            }
+-            System.out.print("Your answer: ");
+-        }
++    }
+ 
+-    public static void displayCorrectAnswer(int questionIndex) {
+-            System.out.println("The correct answer is: " + QuizQuestions.correctAnswers[questionIndex]);
+-        }
+-
+-        public static void moveToNextQuestion() {
+-            System.out.println("Moving to the next question...\n");
+-        }
+-    }
++}
+ 
