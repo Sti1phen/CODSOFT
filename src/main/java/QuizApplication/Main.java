@@ -1,14 +1,15 @@
 package QuizApplication;
 
-public class Main {
+public class
+Main {
 
     public static void main(String[] args) {
             System.out.println("Welcome to the Quiz!\n");
 
-            for (int i = 0; i < QuizQuestions.TOTAL_QUESTIONS; i++) {
-                ConsoleDisplay.displayQuestion(i);
+            for (int questionNumber = 0; questionNumber < QuizQuestions.TOTAL_QUESTIONS; questionNumber++) {
+                ConsoleDisplay.displayQuestion(questionNumber);
 
-                Timer.waitForAnswer();
+                Timer.answerTimer(questionNumber);
 
             }
 

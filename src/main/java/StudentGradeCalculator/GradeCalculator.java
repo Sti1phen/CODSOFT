@@ -41,7 +41,7 @@ public class GradeCalculator {
        return  markSum / subjectNumber;
     }
 
-    public String assignGrade(){
+    public String assignGrade(int averagePercent){
         String studentGrade;
         switch ((int) getAveragePercentage()/10) {
             case 9, 10 -> studentGrade = "A";

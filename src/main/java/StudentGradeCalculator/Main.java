@@ -9,7 +9,7 @@ public class Main {
         double markSum = gradeCalculator.getMarkSum();
 
         double averagePercentage = gradeCalculator.getAveragePercentage();
-        String studentGrade = gradeCalculator.assignGrade();
+        String studentGrade = gradeCalculator.assignGrade((int)averagePercentage);
 
         var studentUser = new Student(name,studentGrade,averagePercentage,markSum);
 
