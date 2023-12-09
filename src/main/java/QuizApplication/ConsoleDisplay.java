@@ -15,7 +15,4 @@ public class ConsoleDisplay {
         System.out.println("The correct answer is: " + QuizQuestions.correctAnswers[questionIndex]);
     }
 
-    public static void moveToNextQuestion() {
-        System.out.println("Moving to the next question...\n");
-    }
 }

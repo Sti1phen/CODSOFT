@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="Quiz Application">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/ResultScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="Quiz Application Revised">
       <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" afterDir="false" />
@@ -39,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/steph/Documents/CODSOFT/src/main/java",
-    "onboarding.tips.debug.path": "C:/Users/steph/Documents/CODSOFT/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/steph/Documents/CODSOFT/src/main/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/steph/Documents/CODSOFT/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\steph\Documents\CODSOFT\src\main\java" />
@@ -89,13 +85,38 @@
       <option name="project" value="LOCAL" />
       <updated>1702083054510</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Quiz Application Revised">
+      <option name="closed" value="true" />
+      <created>1702085310010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702085310010</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Quiz Application Revised">
+      <option name="closed" value="true" />
+      <created>1702085424726</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702085424726</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Quiz Application Revised">
+      <option name="closed" value="true" />
+      <created>1702085472189</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702085472189</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Commit" />
     <MESSAGE value="Quiz Application" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quiz Application" />
+    <MESSAGE value="Quiz Application Revised" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quiz Application Revised" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -15,7 +15,7 @@ public class Timer {
     static List<Character> quizAnswers =new ArrayList<>();
 //    static Pattern QUIZ_ANSWER =  Pattern.compile("^[a-zA-Z]*$");
 
-    public static void waitForAnswer(int questionIndex) {
+    public static void waitForAnswer() {
 
         timer = new java.util.Timer();
         timer.schedule(new TimerTask() {
@@ -29,7 +29,6 @@ public class Timer {
         }, TIME_LIMIT_PER_QUESTION * 1000);
 
         String userAnswer = scanner.nextLine().trim();
-
 
         if (userAnswer.isEmpty())
             userAnswer = " ";

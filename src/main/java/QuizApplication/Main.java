@@ -8,7 +8,7 @@ public class Main {
             for (int i = 0; i < QuizQuestions.TOTAL_QUESTIONS; i++) {
                 ConsoleDisplay.displayQuestion(i);
 
-                Timer.waitForAnswer(i);
+                Timer.waitForAnswer();
 
             }
 
