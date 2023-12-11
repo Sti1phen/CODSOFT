@@ -26,7 +26,7 @@ public class Timer {
                 System.out.println("\nTime's up!");
                 System.out.println("You didn't provide an answer. Moving to the next question...\n");
                 timer.cancel();
-               nextQuestion = ConsoleDisplay.nextQuestion(questionNumber);
+               ConsoleDisplay.nextQuestion(questionNumber);
 
             }
         }, TIME_LIMIT_PER_QUESTION * 1000);
