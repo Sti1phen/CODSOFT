@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="CODSOFT commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="Final Commit on Number Game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumberGame/GameGuessComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberGame/GameGuessComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/NumberGame.java" beforeDir="false" />
     </list>
@@ -26,6 +26,34 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "Sti1phen"
+    },
+    {
+      "searchQuery": "Timer",
+      "state": "OPEN",
+      "assignee": "Sti1phen",
+      "author": "Sti1phen"
+    }
+  ],
+  "lastFilter": {
+    "searchQuery": "Timer",
+    "state": "OPEN",
+    "assignee": "Sti1phen",
+    "author": "Sti1phen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="24030cd6-22ed-4d47-8785-a602252cf866" />
+        <option name="url" value="https://github.com/Sti1phen/CODSOFT" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -75,7 +103,7 @@
       <recent name="StudentGradeCalculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuizApplication.Main" />
       <module name="CODSOFT" />
@@ -206,15 +234,35 @@
       <option name="project" value="LOCAL" />
       <updated>1702142859367</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Final Commit on Number Game">
+      <option name="closed" value="true" />
+      <created>1702322731670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702322731670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Commit" />
     <MESSAGE value="Quiz Application" />
     <MESSAGE value="Quiz Application Revised" />
     <MESSAGE value="CODSOFT commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="CODSOFT commit" />
+    <MESSAGE value="Final Commit on Number Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit on Number Game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

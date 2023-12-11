@@ -10,11 +10,12 @@ public class ConsoleDisplay {
         }
         System.out.print("Your answer: ");
     }
-    public static void nextQuestion(int currentQuestionNumber){
+    public static int nextQuestion(int currentQuestionNumber){
             currentQuestionNumber++;
-            if (currentQuestionNumber < QuizQuestions.TOTAL_QUESTIONS) {
-                displayQuestion(currentQuestionNumber);
-            }
+            return currentQuestionNumber;
+//            if (currentQuestionNumber < QuizQuestions.TOTAL_QUESTIONS) {
+//                displayQuestion(currentQuestionNumber);
+//            }
         }
 
     public static void displayCorrectAnswer(int questionIndex) {

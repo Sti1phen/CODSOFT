@@ -10,11 +10,12 @@ public class Timer {
 
     public static final int TIME_LIMIT_PER_QUESTION = 10;
     public static int score = 0;
-
+    public static int nextQuestion;
     public static java.util.Timer timer;
     public static Scanner scanner = new Scanner(System.in);
     static List<Character> quizAnswers =new ArrayList<>();
-    static Pattern QUIZ_ANSWER =  Pattern.compile("^([a-dA-D])$");
+    static Pattern QUIZ_ANSWER =  Pattern.compile("^\\s*([a-dA-D])?\\s*$");
+
 
     public static void answerTimer(int questionNumber) {
         char userChoice;
@@ -25,7 +26,7 @@ public class Timer {
                 System.out.println("\nTime's up!");
                 System.out.println("You didn't provide an answer. Moving to the next question...\n");
                 timer.cancel();
-                ConsoleDisplay.nextQuestion(questionNumber);
+               nextQuestion = ConsoleDisplay.nextQuestion(questionNumber);
 
             }
         }, TIME_LIMIT_PER_QUESTION * 1000);
@@ -34,13 +35,8 @@ public class Timer {
         if (userAnswer.isEmpty())
             userAnswer = " ";
 
-        while (true){
-            if (QUIZ_ANSWER.matcher(userAnswer).matches()) {
-                break;
-            }
-            else
-                System.out.print("Enter a valid option: ");
-
+        while (!QUIZ_ANSWER.matcher(userAnswer).matches()) {
+            System.out.print("Enter a valid option: ");
             userAnswer = scanner.nextLine().trim();
         }
         userChoice = Character.toUpperCase(userAnswer.charAt(0));
