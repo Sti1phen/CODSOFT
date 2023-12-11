@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="Quiz Application Revised">
-      <change afterPath="$PROJECT_DIR$/src/test/StudentGradeCalculator/GradeCalculatorTest.java" afterDir="false" />
+    <list default="true" id="6f474faf-bfb4-467b-b88f-875b0cdfad29" name="Changes" comment="CODSOFT commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/ConsoleDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberGame/GameGuessComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberGame/GameGuessComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizApplication/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StudentGradeCalculator/GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentGradeCalculator/GradeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StudentGradeCalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentGradeCalculator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/NumberGame.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +75,7 @@
       <recent name="StudentGradeCalculator" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GradeCalculatorTest.assignGrade">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuizApplication.Main" />
       <module name="CODSOFT" />
@@ -202,14 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702085641395</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="CODSOFT commit">
+      <option name="closed" value="true" />
+      <created>1702142859367</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702142859367</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final Commit" />
     <MESSAGE value="Quiz Application" />
     <MESSAGE value="Quiz Application Revised" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quiz Application Revised" />
+    <MESSAGE value="CODSOFT commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="CODSOFT commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -222,7 +227,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/StudentGradeCalculator/GradeCalculatorTest.java</url>
           <line>8</line>
-          <properties class="StudentGradeCalculator.GradeCalculatorTest" method="assignGrade">
+          <properties class="StudentGradeCalculator.GradeCalculatorTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

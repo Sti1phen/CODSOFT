@@ -27,12 +27,19 @@ public class GameGuessComparator {
                 System.out.println("Invalid Input. Number must be between 1 and 100.");
 
             else if (number < randomGuess) {
-                System.out.println("Too low.\nTry again: ");
+                if ((number + 5) > randomGuess)
+                    System.out.println("Low.\nTry again: ");
+                else
+                    System.out.println("Too low.\nTry again: ");
                 roundScore -= 1;
             }
+
             else if (number > randomGuess) {
+                if ((number - 5) < randomGuess)
+                    System.out.println("High.\nTry again: ");
+                else
                     System.out.println("Too high.\nTry again: ");
-                    roundScore -= 1;
+                roundScore -= 1;
             } else {
                     System.out.println("Correct!");
                     roundScore *= 2;
@@ -41,6 +48,7 @@ public class GameGuessComparator {
         }
 
         System.out.println("Round " + numberOfRounds + " ends.");
+        System.out.println("The correct guess is " + randomGuess);
         System.out.println("Your score is " + roundScore + "\n");
         input.nextLine();
     }
